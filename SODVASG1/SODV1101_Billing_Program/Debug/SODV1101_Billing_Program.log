@@ -1,0 +1,27 @@
+﻿  SODV1101_Billing_Program.cpp
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(83,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(84,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(85,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(86,20): warning C4129:  '%': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(86,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(86,20): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(87,20): warning C4129:  '#': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(88,20): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(89,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(90,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(91,20): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(92,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(93,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(94,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(95,21): warning C4129:  '(': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(95,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(96,21): warning C4129:  '(': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(96,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(97,21): warning C4129:  '#': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(97,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(97,21): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(98,21): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(99,21): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(105,21): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\SODV1101_Billing_Program.cpp(293,15): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  SODV1101_Billing_Program.vcxproj -> C:\Users\tyler\Documents\SODV1101 Projects and Assignments\SODV1101_Billing_Program\Debug\SODV1101_Billing_Program.exe
