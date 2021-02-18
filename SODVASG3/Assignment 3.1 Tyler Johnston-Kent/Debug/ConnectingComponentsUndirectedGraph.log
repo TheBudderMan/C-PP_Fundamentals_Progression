@@ -1,0 +1,3 @@
+﻿  ConnectingComponentsUndirectedGraph.cpp
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\ConnectingComponentsUndirectedGraph\processor.h(95): warning C4715: 'processor::proPass': not all control paths return a value
+  ConnectingComponentsUndirectedGraph.vcxproj -> C:\Users\tyler\Documents\SODV1101 Projects and Assignments\ConnectingComponentsUndirectedGraph\Debug\ConnectingComponentsUndirectedGraph.exe
