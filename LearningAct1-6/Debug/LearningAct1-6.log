@@ -1,0 +1,5 @@
+﻿  LearningAct1-6.cpp
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\LearningAct1-6\LearningAct1-6.cpp(23,81): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\LearningAct1-6\LearningAct1-6.cpp(23,61): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tyler\Documents\SODV1101 Projects and Assignments\LearningAct1-6\LearningAct1-6.cpp(23,58): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  LearningAct1-6.vcxproj -> C:\Users\tyler\Documents\SODV1101 Projects and Assignments\LearningAct1-6\Debug\LearningAct1-6.exe

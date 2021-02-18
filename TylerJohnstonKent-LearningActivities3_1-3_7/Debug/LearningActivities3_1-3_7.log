@@ -1,0 +1,4 @@
+﻿  LearningActivities3_1-3_7.cpp
+C:\Users\rummy\Documents\SODV1101 Projects and Assignments\LearningActivities3_1-3_7\processor.h(202): warning C4715: 'processor::getMode': not all control paths return a value
+C:\Users\rummy\Documents\SODV1101 Projects and Assignments\LearningActivities3_1-3_7\processor.h(316): warning C4715: 'processor::getOddMode': not all control paths return a value
+  LearningActivities3_1-3_7.vcxproj -> C:\Users\rummy\Documents\SODV1101 Projects and Assignments\LearningActivities3_1-3_7\Debug\LearningActivities3_1-3_7.exe
